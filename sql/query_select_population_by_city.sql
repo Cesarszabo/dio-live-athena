@@ -1,3 +1,3 @@
 select city, population
-from "population"."population"
-where city='Foz do Iguaçu';
+from "populationbr2019"."cesar_primeiro_athena"
+where city='São Paulo';
